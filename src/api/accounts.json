@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "email": "john.doe@example.com",
+    "authToken": "abc123xyz456",
+    "creationDate": "2024-01-17"
+  },
+  {
+    "id": 2,
+    "email": "jane.smith@example.com",
+    "authToken": "def789uvw123",
+    "creationDate": "2024-01-18"
+  },
+  {
+    "id": 3,
+    "email": "bob.jones@example.com",
+    "authToken": "ghi456jkl789",
+    "creationDate": "2024-01-19"
+  },
+  {
+    "id": 4,
+    "email": "alice.wonder@example.com",
+    "authToken": "mno789pqr123",
+    "creationDate": "2024-01-20"
+  },
+  {
+    "id": 5,
+    "email": "charlie.brown@example.com",
+    "authToken": "stu456vwx789",
+    "creationDate": "2024-01-21"
+  },
+  {
+    "id": 6,
+    "email": "lisa.johnson@example.com",
+    "authToken": "yz123abc456",
+    "creationDate": "2024-01-22"
+  },
+  {
+    "id": 7,
+    "email": "michael.white@example.com",
+    "authToken": "def789ghi123",
+    "creationDate": "2024-01-23"
+  },
+  {
+    "id": 8,
+    "email": "susan.miller@example.com",
+    "authToken": "jkl456mno789",
+    "creationDate": "2024-01-24"
+  },
+  {
+    "id": 9,
+    "email": "kevin.jackson@example.com",
+    "authToken": "pqr123stu456",
+    "creationDate": "2024-01-25"
+  },
+  {
+    "id": 10,
+    "email": "natalie.adams@example.com",
+    "authToken": "vwx789yz123",
+    "creationDate": "2024-01-26"
+  },
+  {
+    "id": 11,
+    "email": "david.morris@example.com",
+    "authToken": "abc456def789",
+    "creationDate": "2024-01-27"
+  },
+  {
+    "id": 12,
+    "email": "olivia.clark@example.com",
+    "authToken": "ghi123jkl456",
+    "creationDate": "2024-01-28"
+  },
+  {
+    "id": 13,
+    "email": "ryan.baker@example.com",
+    "authToken": "mno789pqr123",
+    "creationDate": "2024-01-29"
+  },
+  {
+    "id": 14,
+    "email": "emma.white@example.com",
+    "authToken": "stu456vwx789",
+    "creationDate": "2024-01-30"
+  },
+  {
+    "id": 15,
+    "email": "peter.green@example.com",
+    "authToken": "yz123abc456",
+    "creationDate": "2024-01-31"
+  },
+  {
+    "id": 16,
+    "email": "sophia.rogers@example.com",
+    "authToken": "def789ghi123",
+    "creationDate": "2024-02-01"
+  },
+  {
+    "id": 17,
+    "email": "jason.carter@example.com",
+    "authToken": "jkl456mno789",
+    "creationDate": "2024-02-02"
+  },
+  {
+    "id": 18,
+    "email": "amber.wilson@example.com",
+    "authToken": "pqr123stu456",
+    "creationDate": "2024-02-03"
+  },
+  {
+    "id": 19,
+    "email": "eric.turner@example.com",
+    "authToken": "vwx789yz123",
+    "creationDate": "2024-02-04"
+  },
+  {
+    "id": 20,
+    "email": "megan.kelly@example.com",
+    "authToken": "abc456def789",
+    "creationDate": "2024-02-05"
+  }
+]

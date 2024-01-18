@@ -1,0 +1,338 @@
+[
+  {
+    "id": 1,
+    "accountId": 1,
+    "country": "USA",
+    "marketplace": "Amazon"
+  },
+  {
+    "id": 2,
+    "accountId": 1,
+    "country": "USA",
+    "marketplace": "Walmart"
+  },
+  {
+    "id": 3,
+    "accountId": 1,
+    "country": "Canada",
+    "marketplace": "eBay"
+  },
+  {
+    "id": 4,
+    "accountId": 1,
+    "country": "UK",
+    "marketplace": "Etsy"
+  },
+  {
+    "id": 5,
+    "accountId": 1,
+    "country": "Germany",
+    "marketplace": "Walmart"
+  },
+  {
+    "id": 6,
+    "accountId": 1,
+    "country": "France",
+    "marketplace": "Shopify"
+  },
+  {
+    "id": 7,
+    "accountId": 1,
+    "country": "Japan",
+    "marketplace": "Rakuten"
+  },
+  {
+    "id": 8,
+    "accountId": 2,
+    "country": "USA",
+    "marketplace": "Amazon"
+  },
+  {
+    "id": 9,
+    "accountId": 2,
+    "country": "Canada",
+    "marketplace": "eBay"
+  },
+  {
+    "id": 10,
+    "accountId": 2,
+    "country": "UK",
+    "marketplace": "Etsy"
+  },
+  {
+    "id": 11,
+    "accountId": 2,
+    "country": "Germany",
+    "marketplace": "Walmart"
+  },
+  {
+    "id": 12,
+    "accountId": 2,
+    "country": "France",
+    "marketplace": "Shopify"
+  },
+  {
+    "id": 13,
+    "accountId": 2,
+    "country": "Japan",
+    "marketplace": "Rakuten"
+  },
+  {
+    "id": 14,
+    "accountId": 2,
+    "country": "Australia",
+    "marketplace": "Kogan"
+  },
+  {
+    "id": 15,
+    "accountId": 3,
+    "country": "USA",
+    "marketplace": "Amazon"
+  },
+  {
+    "id": 16,
+    "accountId": 3,
+    "country": "Canada",
+    "marketplace": "eBay"
+  },
+  {
+    "id": 17,
+    "accountId": 3,
+    "country": "UK",
+    "marketplace": "Etsy"
+  },
+  {
+    "id": 18,
+    "accountId": 3,
+    "country": "Germany",
+    "marketplace": "Walmart"
+  },
+  {
+    "id": 19,
+    "accountId": 3,
+    "country": "France",
+    "marketplace": "Shopify"
+  },
+  {
+    "id": 3,
+    "accountId": 3,
+    "country": "Japan",
+    "marketplace": "Rakuten"
+  },
+  {
+    "id": 21,
+    "accountId": 3,
+    "country": "Australia",
+    "marketplace": "Kogan"
+  },
+  {
+    "id": 22,
+    "accountId": 4,
+    "country": "USA",
+    "marketplace": "Amazon"
+  },
+  {
+    "id": 23,
+    "accountId": 4,
+    "country": "Canada",
+    "marketplace": "eBay"
+  },
+  {
+    "id": 24,
+    "accountId": 4,
+    "country": "UK",
+    "marketplace": "Etsy"
+  },
+  {
+    "id": 25,
+    "accountId": 4,
+    "country": "Germany",
+    "marketplace": "Walmart"
+  },
+  {
+    "id": 26,
+    "accountId": 4,
+    "country": "France",
+    "marketplace": "Shopify"
+  },
+  {
+    "id": 27,
+    "accountId": 4,
+    "country": "Japan",
+    "marketplace": "Rakuten"
+  },
+  {
+    "id": 28,
+    "accountId": 5,
+    "country": "Australia",
+    "marketplace": "Kogan"
+  },
+  {
+    "id": 29,
+    "accountId": 5,
+    "country": "USA",
+    "marketplace": "Amazon"
+  },
+  {
+    "id": 30,
+    "accountId": 5,
+    "country": "Canada",
+    "marketplace": "eBay"
+  },
+  {
+    "id": 31,
+    "accountId": 5,
+    "country": "UK",
+    "marketplace": "Etsy"
+  },
+  {
+    "id": 32,
+    "accountId": 5,
+    "country": "Germany",
+    "marketplace": "Walmart"
+  },
+  {
+    "id": 33,
+    "accountId": 5,
+    "country": "France",
+    "marketplace": "Shopify"
+  },
+  {
+    "id": 34,
+    "accountId": 5,
+    "country": "Japan",
+    "marketplace": "Rakuten"
+  },
+  {
+    "id": 35,
+    "accountId": 5,
+    "country": "Australia",
+    "marketplace": "Kogan"
+  },
+  {
+    "id": 36,
+    "accountId": 5,
+    "country": "USA",
+    "marketplace": "Amazon"
+  },
+  {
+    "id": 37,
+    "accountId": 5,
+    "country": "Canada",
+    "marketplace": "eBay"
+  },
+  {
+    "id": 38,
+    "accountId": 5,
+    "country": "UK",
+    "marketplace": "Etsy"
+  },
+  {
+    "id": 39,
+    "accountId": 6,
+    "country": "Germany",
+    "marketplace": "Walmart"
+  },
+  {
+    "id": 40,
+    "accountId": 6,
+    "country": "France",
+    "marketplace": "Shopify"
+  },
+  {
+    "id": 41,
+    "accountId": 6,
+    "country": "USA",
+    "marketplace": "Amazon"
+  },
+  {
+    "id": 42,
+    "accountId": 6,
+    "country": "Canada",
+    "marketplace": "eBay"
+  },
+  {
+    "id": 43,
+    "accountId": 6,
+    "country": "UK",
+    "marketplace": "Etsy"
+  },
+  {
+    "id": 44,
+    "accountId": 6,
+    "country": "Germany",
+    "marketplace": "Walmart"
+  },
+  {
+    "id": 45,
+    "accountId": 6,
+    "country": "France",
+    "marketplace": "Shopify"
+  },
+  {
+    "id": 46,
+    "accountId": 6,
+    "country": "Japan",
+    "marketplace": "Rakuten"
+  },
+  {
+    "id": 47,
+    "accountId": 6,
+    "country": "Australia",
+    "marketplace": "Kogan"
+  },
+  {
+    "id": 48,
+    "accountId": 7,
+    "country": "Australia",
+    "marketplace": "Kogan"
+  },
+  {
+    "id": 49,
+    "accountId": 7,
+    "country": "USA",
+    "marketplace": "Amazon"
+  },
+  {
+    "id": 50,
+    "accountId": 7,
+    "country": "Canada",
+    "marketplace": "eBay"
+  },
+  {
+    "id": 51,
+    "accountId": 7,
+    "country": "UK",
+    "marketplace": "Etsy"
+  },
+  {
+    "id": 52,
+    "accountId": 7,
+    "country": "Germany",
+    "marketplace": "Walmart"
+  },
+  {
+    "id": 53,
+    "accountId": 7,
+    "country": "France",
+    "marketplace": "Shopify"
+  },
+  {
+    "id": 54,
+    "accountId": 7,
+    "country": "Japan",
+    "marketplace": "Rakuten"
+  },
+  {
+    "id": 55,
+    "accountId": 7,
+    "country": "Australia",
+    "marketplace": "Kogan"
+  },
+  {
+    "id": 56,
+    "accountId": 7,
+    "country": "USA",
+    "marketplace": "Amazon"
+  }
+]
